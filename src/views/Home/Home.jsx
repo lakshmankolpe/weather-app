@@ -58,7 +58,7 @@ const weatherData = [
 function Home() {
   return (
     <>
-      <h1>Weathers Cards</h1>
+      <h1 className="app-title">Weathers Cards</h1>
       <div className="weather-card-container">
 
         {
