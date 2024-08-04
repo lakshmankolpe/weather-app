@@ -21,12 +21,12 @@ const weatherData = [
   {
     temperature: 10,
     weather: "rainy",
-    city: "Kashmir, India",
+    city: "Gandhi Nagar, India",
   },
   {
     temperature: 25,
     weather: "sunny",
-    city: "Jaypur, India",
+    city: "Dhule, India",
   },
   {
     temperature: 24,
@@ -36,7 +36,7 @@ const weatherData = [
   {
     temperature: 12,
     weather: "sunny",
-    city: "Kolapur, India",
+    city: "Satara, India",
   },
   {
     temperature: 6,
